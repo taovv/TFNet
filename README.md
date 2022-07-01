@@ -1,6 +1,6 @@
 # TFNet
 
-> [ACPR' 22] [TFNet: Transformer Fusion Network for Ultrasound Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-02375-0_23).
+> [ACPR' 21] [TFNet: Transformer Fusion Network for Ultrasound Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-02375-0_23).
 > 
 > Tao Wang, Zhihui Lai and Heng Kong 
 
